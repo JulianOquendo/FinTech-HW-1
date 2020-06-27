@@ -8,7 +8,7 @@
 
 * Founded by Itamar Lesuisse, Gerald Goldstein & Julian Niset.
 
-* The idea for the company came about after Itamar made his first purchase of Ether back in 2016. He knew that he had a passion for the field and after some digging around, he decided that usability and security were the two impeding factors to mainstream adoption… so he set out to fix just that. Through the combination of a mobile native wallet and a heightened focus on cryptography, they hoped to give users a wallet that afforded more control or their holdings.
+* The idea for the company came about after Itamar made his first purchase of Ether back in 2016. He knew that he had a passion for the field and after some digging around, he decided that usability and security were the two impeding factors to mainstream adoption… so he set out to fix just that. Through the combination of a mobile native wallet and a heightened focus on cryptography, they hoped to provide the ecosystem with a wallet that afforded users more control of their holdings.
 
 * The company is funded through 3 separate investment rounds from reputable VC’s; Two in 2018 that raised a cumulative $4MM and then a third round in early 2020 that raised around $12MM. Participating crypto funds invested in the project include Paradigm, Index Ventures & others. The total funding is $16MM to date.
 

@@ -8,11 +8,11 @@
 
 * Founded by Itamar Lesuisse, Gerald Goldstein & Julian Niset.
 
-* The idea for the company came about after Itamar made his first purchase of Ether back in 2016. He knew that he had a passion for the field and after some digging around, he decided that usability and security were the two impeding factors to mainstream adoption…so he set out to fix that. Through the combination of a mobile native wallet and a heightened focus on cryptography, they hoped to give users a wallet that afforded more control or their holdings.
+* The idea for the company came about after Itamar made his first purchase of Ether back in 2016. He knew that he had a passion for the field and after some digging around, he decided that usability and security were the two impeding factors to mainstream adoption… so he set out to fix just that. Through the combination of a mobile native wallet and a heightened focus on cryptography, they hoped to give users a wallet that afforded more control or their holdings.
 
 * The company is funded through 3 separate investment rounds from reputable VC’s; Two in 2018 that raised a cumulative $4MM and then a third round in early 2020 that raised around $12MM. Participating crypto funds invested in the project include Paradigm, Index Ventures & others. The total funding is $16MM to date.
 
-## Business Activities:
+## Business Activities
 
 * The specific financial problem the company is trying to solve is two-fold:
     1.	The difficulty in navigating various DeFi apps to generate a higher yield on your portfolio of Ether or ERC-20 tokens by more easily providing a suite of investment options under one platform.
@@ -24,7 +24,7 @@
 
 * The main technology they are currently using are Ethereum "Smart Contracts", as the entire framework of the wallet is built on top of these. A smart contract, in short, is a transaction that executes automatically according to the terms of the pre-coded contract or agreement.
 
-## Landscape:
+## Landscape
 
 * The domain of the financial industry that Argent belongs to is cryptocurrency, more specifically the Decentralized Finance (DeFi) realm of crypto. On the broader level, "Decentralized Finance" aims to re-create a financial system that is open to everyone and anyone, and minimizes one’s need to trust and rely on central authorities such as banks. This truly has the opportunity to bring about a more transparent and inviting financial system, allowing anyone with an internet connection the ability to access and interact with smart contracts built on the Ethereum network.
 

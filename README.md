@@ -1,6 +1,6 @@
 # Why Argent is the first crypto wallet that gets it right
 
-## When I read the title for this homework assignment, I knew almost instantaneously which company I wanted to do a deep dive on. Argent, an Ethereum wallet in the simplest terms, launched publicly less than a month ago with tons of hype within the DeFi community. Since late May, I have played around with almost every feature offered through the application and have concluded that this will be the wallet that takes crypto to the next level. Here we go…
+## When I read the title for this homework assignment, I knew almost instantaneously which company I wanted to do a deep dive on. Argent, an Ethereum wallet in the simplest terms, launched publicly less than a month ago with tons of hype within the DeFi community. Since late May, I have played around with almost every feature offered through the application and have concluded that this will be the wallet that takes crypto to the next level.
 
 * Argent
 
@@ -38,11 +38,11 @@
 
 * The core metric that companies in this domain use to measure success is Total Value Locked (USD) in DeFi. Across all DeFi apps, the amount of USD locked in DeFi just crossed the $1B threshold again for the first time since the March crash and as of June 27th, the TVL is sitting at $1.65 Billion USD locked in DeFi.
 
-* The company is performing relatively well but it is still so, so, so early on. As for wallets, they are usually judged by the amount of active addresses they maintain. Really this just means how many individual wallets are actually sending or receiving funds over a certain period of time (usually 3 months). As of their launch in May, Argent had 3,000 users interacting with the wallet during the beta period and another 1,000 on the waiting list. The total number of wallet addresses created since the inception of Bitcoin just passed 47,000,000 this past May, so Argent definitely has its work cut it for them to start gaining significant market share! 
+* The company is performing relatively well but it is still so, so, so early on. As for wallets, they are usually judged by the amount of active addresses they maintain. Really this just means how many individual wallets are actually sending or receiving funds over a certain period of time (usually 3 months). As of their launch in May, Argent had 3,000 users interacting with the wallet during the beta period and another 1,000 on the waiting list. The total number of wallet addresses created since the inception of Bitcoin just passed 47,000,000 this past May, so Argent definitely has its work cut it for them to start gaining significant market share in the crypto space!
 
 ## Recommendations 
 
-* If I were to advise the company… I would suggest they implement a feature to more easily track the prices or performance of the various tokens that you can exchange for. Right now they do not have a mechanism for this, and it leaves the user having to check external websites such as DeFi Pulse to figure out how certain tokens are tracking. Introducing a native scoreboard of sorts would make the user experience much better as it would improve the transparency. It may be as simple as better showcasing the native decentralized exchange on the wallet, Kyber, and highlighting their exchange prices in a more intuitive manner. 
+* If I were to advise the company...I would suggest they implement a feature to more easily track the prices and performance of the various tokens that you can exchange for. Right now they do not have a mechanism for this, and it leaves the user having to check external websites such as DeFi Pulse to figure out how certain tokens are tracking. Introducing a native scoreboard of sorts would make the user experience much better as it would improve the transparency. It may be as simple as better showcasing the native decentralized exchange on the wallet, Kyber, and highlighting their exchange prices in a more intuitive manner. 
 
 * All in all, I highly recommend Argent to anyone looking to dip their toes into the world of DeFi and start farming yield!
 
